@@ -1,0 +1,4 @@
+20220506	14:49:15	9c66ff65-e9ab-4dfb-9d50-b5d8540e9e9b	GET	undefined	/
+20220506	14:49:15	632fc9a7-dc66-4436-9e0c-5dbbe5bc4e06	GET	undefined	/css/style.css
+20220506	14:49:15	7507289b-2b8f-4bee-ad2f-42cf2b047fa2	GET	undefined	/favicon.ico
+20220506	14:49:40	b9712ee7-8414-4449-9c65-114e25fb82a6	GET	undefined	/states/
